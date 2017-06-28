@@ -51,9 +51,9 @@
          face CurrentWord $gray,$lightgray
 
          # listchars
-         face Whitespace $black,$white
+         face Whitespace $lightgray,$white
          # ~ lines at EOB
-         face BufferPadding $gray,$white
+         face BufferPadding $lightgray,$white
 
          face LineNumbers $gray,$white
          # must use -hl-cursor
