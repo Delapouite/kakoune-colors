@@ -19,6 +19,11 @@ Color schemes for [kakoune](http://kakoune.org)
 Place the `kak` files in `.config/kak/colors` dir.
 Use the `:colorscheme` command.
 
+## See also
+
+- [kakoune-ink](https://delapouite.github.io/kakoune-ink/): online colorscheme editor
+- [kakoune-palette](https://github.com/Delapouite/kakoune-palette): preview colors in the gutter
+
 ## Licence
 
 MIT
