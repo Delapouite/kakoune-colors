@@ -5,14 +5,14 @@ Color schemes for [kakoune](http://kakoune.org)
 ### dark themes
 
 - [dracula](https://draculatheme.com)
-![dracula](https://raw.githubusercontent.com/delapouite/kakoune-buffers/master/screenshots/dracula.jpg)
+![dracula](https://raw.githubusercontent.com/delapouite/kakoune-colors/master/screenshots/dracula.jpg)
 - [gotham](https://github.com/whatyouhide/gotham-contrib)
-![gotham](https://raw.githubusercontent.com/delapouite/kakoune-buffers/master/screenshots/gotham.jpg)
+![gotham](https://raw.githubusercontent.com/delapouite/kakoune-colors/master/screenshots/gotham.jpg)
 
 ### light themes
 
 - [seagull](https://github.com/nightsense/seabird)
-![seagull](https://raw.githubusercontent.com/delapouite/kakoune-buffers/master/screenshots/seagull.jpg)
+![seagull](https://raw.githubusercontent.com/delapouite/kakoune-colors/master/screenshots/seagull.jpg)
 
 ## Usage
 
