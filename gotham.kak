@@ -41,10 +41,15 @@
          face list $white
 
          face Default $white,$black
+
          face PrimarySelection $black,$pink
-         face SecondarySelection $black,$purple
+         face PrimaryCursorEol $black,$cyan
          face PrimaryCursor $black,$cyan
+
+         face SecondarySelection $black,$purple
          face SecondaryCursor $black,$orange
+         face SecondaryCursorEol $black,$orange
+
          face MatchingChar $black,$blue
          face Search $blue,$green
          face CurrentWord $white,$blue
@@ -57,18 +62,19 @@
          face LineNumbers $gray,$black
          # must use -hl-cursor
          face LineNumberCursor $white,$gray+b
+         face LineNumbersWrapped $gray,$black+i
 
          # when item focused in menu
-         face MenuForeground $blue,$white
+         face MenuForeground $blue,$white+b
          # default bottom menu and autocomplete
          face MenuBackground $white,$blue
          # complement in autocomplete like path
          face MenuInfo $cyan,$blue
          # clippy
-         face Information $yellow,$black
+         face Information $yellow,$gray
          face Error $black,$red
 
-         # all status line: what we type, but also client@[session]
+         # all status line: what we type, but also client@[session]
          face StatusLine $white,$black
          # insert mode, prompt mode
          face StatusLineMode $black,$green
