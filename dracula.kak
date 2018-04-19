@@ -16,74 +16,74 @@
     red="rgb:ff5555"
 
     echo "
-         face value $green
-         face type $purple
-         face variable $red
-         face function $red
-         face module $red
-         face string $yellow
-         face error $red
-         face keyword $cyan
-         face operator $orange
-         face attribute $pink
-         face comment $blue+i
-         face meta $red
-         face builtin $white+b
+         face global value $green
+         face global type $purple
+         face global variable $red
+         face global function $red
+         face global module $red
+         face global string $yellow
+         face global error $red
+         face global keyword $cyan
+         face global operator $orange
+         face global attribute $pink
+         face global comment $blue+i
+         face global meta $red
+         face global builtin $white+b
 
-         face title $red
-         face header $orange
-         face bold $pink
-         face italic $purple
-         face mono $green
-         face block $cyan
-         face link $green
-         face bullet $green
-         face list $white
+         face global title $red
+         face global header $orange
+         face global bold $pink
+         face global italic $purple
+         face global mono $green
+         face global block $cyan
+         face global link $green
+         face global bullet $green
+         face global list $white
 
-         face Default $white,$black
+         face global Default $white,$black
 
-         face PrimarySelection $black,$pink
-         face PrimaryCursor $black,$cyan
-         face PrimaryCursorEol $black,$cyan
+         face global PrimarySelection $black,$pink
+         face global PrimaryCursor $black,$cyan
+         face global PrimaryCursorEol $black,$cyan
 
-         face SecondarySelection $black,$purple
-         face SecondaryCursor $black,$orange
-         face SecondaryCursorEol $black,$orange
+         face global SecondarySelection $black,$purple
+         face global SecondaryCursor $black,$orange
+         face global SecondaryCursorEol $black,$orange
 
-         face MatchingChar $black,$blue
-         face Search $blue,$green
-         face CurrentWord $white,$blue
+         face global MatchingChar $black,$blue
+         face global Search $blue,$green
+         face global CurrentWord $white,$blue
 
          # listchars
-         face Whitespace $gray,$black
+         face global Whitespace $gray,$black
          # ~ lines at EOB
-         face BufferPadding $gray,$black
+         face global BufferPadding $gray,$black
 
-         face LineNumbers $gray,$black
+         face global LineNumbers $gray,$black
          # must use -hl-cursor
-         face LineNumberCursor $white,$gray+b
-         face LineNumbersWrapped $gray,$black+i
+         face global LineNumberCursor $white,$gray+b
+         face global LineNumbersWrapped $gray,$black+i
 
          # when item focused in menu
-         face MenuForeground $blue,$white+b
+         face global MenuForeground $blue,$white+b
          # default bottom menu and autocomplete
-         face MenuBackground $white,$blue
+         face global MenuBackground $white,$blue
          # complement in autocomplete like path
-         face MenuInfo $cyan,$blue
+         face global MenuInfo $cyan,$blue
          # clippy
-         face Information $yellow,$gray
-         face Error $black,$red
+         face global Information $yellow,$gray
+         face global Error $black,$red
 
          # all status line: what we type, but also client@[session]
-         face StatusLine $white,$black
+         face global StatusLine $white,$black
          # insert mode, prompt mode
-         face StatusLineMode $black,$green
+         face global StatusLineMode $black,$green
          # message like '1 sel'
-         face StatusLineInfo $purple,$black
+         face global StatusLineInfo $purple,$black
          # count
-         face StatusLineValue $orange,$black
-         face StatusCursor $white,$blue
+         face global StatusLineValue $orange,$black
+         face global StatusCursor $white,$blue
          # like the word 'select:' when pressing 's'
-         face Prompt $black,$green
+         face global Prompt $black,$green
     "
 }
