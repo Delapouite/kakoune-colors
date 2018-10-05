@@ -1,7 +1,7 @@
 # seagull theme
 # https://github.com/nightsense/seabird
 
-%sh{
+evaluate-commands %sh{
     black="rgb:1d252b"
     gray="rgb:6d767d"
     lightgray="rgb:e6eaed"
@@ -56,7 +56,7 @@
          face global CurrentWord $gray,$lightgray
 
          # listchars
-         face global Whitespace $lightgray,$white
+         face global Whitespace $lightgray,$white+f
          # ~ lines at EOB
          face global BufferPadding $lightgray,$white
 

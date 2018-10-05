@@ -1,7 +1,7 @@
 # dracula theme
 # https://draculatheme.com/
 
-%sh{
+evaluate-commands %sh{
     black="rgb:282a36"
     gray="rgb:44475a"
     white="rgb:f8f8f2"
@@ -55,7 +55,7 @@
          face global CurrentWord $white,$blue
 
          # listchars
-         face global Whitespace $gray,$black
+         face global Whitespace $gray,$black+f
          # ~ lines at EOB
          face global BufferPadding $gray,$black
 

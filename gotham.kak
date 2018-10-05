@@ -1,7 +1,7 @@
 # gotham theme
 # https://github.com/whatyouhide/gotham-contrib
 
-%sh{
+evaluate-commands %sh{
     black="rgb:0c1014"
     gray="rgb:245361"
     white="rgb:d3ebe9"
@@ -55,7 +55,7 @@
          face global CurrentWord $white,$blue
 
          # listchars
-         face global Whitespace $gray,$black
+         face global Whitespace $gray,$black+f
          # ~ lines at EOB
          face global BufferPadding $gray,$black
 
