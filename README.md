@@ -23,6 +23,7 @@ Use the `:colorscheme` command.
 
 - [kakoune-ink](https://delapouite.github.io/kakoune-ink/): online colorscheme editor
 - [kakoune-palette](https://github.com/Delapouite/kakoune-palette): preview colors in the gutter
+- [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
 
 ## Licence
 
