@@ -24,6 +24,7 @@ Use the `:colorscheme` command.
 - [kakoune-ink](https://delapouite.github.io/kakoune-ink/): online colorscheme editor
 - [kakoune-palette](https://github.com/Delapouite/kakoune-palette): preview colors in the gutter
 - [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
+- [pastel](https://github.com/sharkdp/pastel): A command-line tool to generate, analyze, convert and manipulate colors 
 
 ## Licence
 
