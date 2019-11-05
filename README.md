@@ -21,10 +21,16 @@ Use the `:colorscheme` command.
 
 ## See also
 
+### Other themes
+
+- [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
+- [nord-kakoune](https://github.com/rubberydub/nord-kakoune): https://www.nordtheme.com
+
+### Tools
+
 - [kakoune-ink](https://delapouite.github.io/kakoune-ink/): online colorscheme editor
 - [kakoune-palette](https://github.com/Delapouite/kakoune-palette): preview colors in the gutter
-- [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
-- [pastel](https://github.com/sharkdp/pastel): A command-line tool to generate, analyze, convert and manipulate colors 
+- [pastel](https://github.com/sharkdp/pastel): command-line tool to generate, analyze, convert and manipulate colors 
 
 ## Licence
 
