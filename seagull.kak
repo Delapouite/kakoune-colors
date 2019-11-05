@@ -59,6 +59,8 @@ evaluate-commands %sh{
          face global Whitespace $lightgray,$white+f
          # ~ lines at EOB
          face global BufferPadding $lightgray,$white
+         # must use wrap -marker hl
+         face global WrapMarker Whitespace
 
          face global LineNumbers $gray,$white
          # must use -hl-cursor
