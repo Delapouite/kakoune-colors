@@ -25,6 +25,10 @@ Use the `:colorscheme` command.
 
 - [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
 - [nord-kakoune](https://github.com/rubberydub/nord-kakoune): https://www.nordtheme.com
+- [kakoune-darkokai](https://github.com/markolenik/kakoune-darkokai-theme)
+- [torchwood (badwolf)](https://github.com/codymlewis/torchwood)
+- [primer.kak (github)](https://github.com/evanrelf/primer.kak)
+- [dracula-theme](https://draculatheme.com/kakoune)
 
 ### Tools
 
