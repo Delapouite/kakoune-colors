@@ -29,6 +29,7 @@ Use the `:colorscheme` command.
 - [torchwood (badwolf)](https://github.com/codymlewis/torchwood)
 - [primer.kak (github)](https://github.com/evanrelf/primer.kak)
 - [dracula-theme](https://draculatheme.com/kakoune)
+- [kakoune-snow](https://github.com/caksoylar/kakoune-snow)
 
 ### Tools
 
